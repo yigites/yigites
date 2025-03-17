@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Yiğit Eren Şaklar! 👋<br><br>🔭 There is no project I am working on right now.<br><br>🌱 I am currently focusing on Node.js, Java, C# and I plan to improve myself on these languages.<br><br>📝 I will soon share my projects and blog posts on my own website and GitHup profile.<br><br>🌐 You can contact my personal website here yigiterensaklar.com.tr<br>
+Hello, I'm Yiğit Eren Şaklar! 👋<br><br>🔭 There is no project I am working on right now.<br><br>🌱 I am currently focusing on Node.js, Java, C# and I plan to improve myself on these languages.<br><br>📝 I will soon share my projects and blog posts on my own website and GitHup profile.<br><br>🌐 You can contact my personal mail adress here yigiterensaklarr@gmail.com<br>
 
 
 # 💻 Tech Stack:
